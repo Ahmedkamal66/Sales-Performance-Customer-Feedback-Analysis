@@ -67,5 +67,5 @@ While the specific dashboard visuals depend on the `.pbix` file, the analysis is
 ![image](https://github.com/Ahmedkamal66/Sales-Performance-Customer-Feedback-Analysis/blob/main/Reviews.png?raw=true)
 
 5-## Forecast
-![image]
+![image](https://github.com/Ahmedkamal66/Sales-Performance-Customer-Feedback-Analysis/blob/main/Forecast.png?raw=true)
 
