@@ -55,4 +55,4 @@ While the specific dashboard visuals depend on the `.pbix` file, the analysis is
 ## power BI Dashboard
 1- ## Home
 
-https://github.com/Ahmedkamal66/Sales-Performance-Customer-Feedback-Analysis/blob/main/Home.png?raw=true
+![image](https://github.com/Ahmedkamal66/Sales-Performance-Customer-Feedback-Analysis/blob/main/Home.png?raw=true)
