@@ -52,4 +52,7 @@ While the specific dashboard visuals depend on the `.pbix` file, the analysis is
 1. **Python Script:** Ensure you have Python installed. Install necessary dependencies (like `pandas`) and run `Analysis.py` to view the data preprocessing steps.
 2. **Power BI Dashboard:** Open the `Analysis-Power Bi.pbix` file using Power BI Desktop. If prompted, refresh the data sources to point to the local CSV files in your repository.
 
-3. 
+## power BI Dashboard
+1- ## Home
+
+https://github.com/Ahmedkamal66/Sales-Performance-Customer-Feedback-Analysis/blob/main/Home.png?raw=true
